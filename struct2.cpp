@@ -32,4 +32,3 @@ int main()
     cout << "Kota : " << mhs.alamat.kota << endl;
     cout << "Umur : " << mhs.umur << endl;
 }
-p
