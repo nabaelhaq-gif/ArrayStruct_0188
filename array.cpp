@@ -44,4 +44,3 @@ int main()
         cout << "Data ke-" << i + 1 << " = " << kamu[i] << endl;
     }
 }
-sadsadaff
